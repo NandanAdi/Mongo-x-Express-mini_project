@@ -1,0 +1,39 @@
+
+body{
+    margin: 20px;
+    background-color: rgb(3, 255, 171);
+
+}
+h1{
+    color: rgb(14, 13, 13);
+}
+.chat{
+    background-color: rgb(175, 255, 255);
+    padding: 20px;
+    border-radius:16px ;
+    /* display: inline-block; */
+}
+
+.msg{
+    background-color: aquamarine;
+    color: rgb(0, 0, 0);
+    padding: 5px 15px;
+    border-radius:16px ;
+}
+
+.Edit{
+    background-color: rgb(175, 255, 255);
+    border: 3px solid white;
+    border-radius: 5px;
+}
+.Delete{
+     background-color: rgb(166, 255, 225);
+    border: 3px solid white;
+    border-radius: 5px;
+}
+
+.New{
+     background-color: rgb(166, 255, 225);
+    border: 3px solid white;
+    border-radius: 5px;
+}
